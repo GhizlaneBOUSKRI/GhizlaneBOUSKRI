@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GhizlaneBOUSKRI
-- 👀 I’m interested in Data Science and Physics
+- 👀 I’m interested in Data Science, maths, Physics and coffee
 - 🌱 I’m currently working as a data scientist
 - 📫 How to reach me : ghizlane.bouskri@gmail.com
 
